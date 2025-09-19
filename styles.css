@@ -12,6 +12,10 @@ body{
 	margin-top:70px ;
 	display:inline-block
 }
+h1{
+	font-size:50px;
+	color:#1877f2
+}
 form{
 	display:flex;
 	 width:300px;
